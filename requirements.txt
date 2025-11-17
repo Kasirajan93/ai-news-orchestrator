@@ -1,0 +1,19 @@
+feedparser
+newspaper3k
+streamlit
+transformers
+torch
+scikit-learn
+nltk
+apscheduler
+gunicorn
+beautifulsoup4
+requests
+vaderSentiment
+lxml_html_clean
+hf_xet
+openai
+transformers
+torch  # optional but required by many transformer models; you can choose cpu or cuda build
+textblob
+googletrans==4.0.0-rc1
