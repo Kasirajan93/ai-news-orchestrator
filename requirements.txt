@@ -1,0 +1,22 @@
+streamlit
+feedparser
+beautifulsoup4
+requests
+python-dotenv
+
+# summarization + NLP
+sumy
+nltk
+scikit-learn
+vaderSentiment
+
+# translation
+googletrans==4.0.0-rc1
+deep-translator
+
+# utilities
+numpy
+matplotlib
+
+# spacy (lightweight)
+spacy==3.7.2
